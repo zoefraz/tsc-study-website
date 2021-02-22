@@ -3,10 +3,6 @@ title: "TSC Study Website"
 description: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
 ---
 
-## TSC Studies
-
-We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful.
-
 ### Autism Spectrum Disorder (ASD) and Intellectual Disability (ID) Determinants in Tuberous Sclerosis Complex:
 We are currently conducting a clinical research study at Boston Children’s Hospital for individuals 18 months and older with a diagnosis of tuberous sclerosis complex (TSC) and autism spectrum disorder (ASD) and/or intellectual disability (ID). The goal of this study is to gain a better understanding of ASD/ID in individuals with TSC so that effective treatments and interventions for ASD/ID can be found. This is a multi-center research study conducted as part of the Rare Disease Clinical Research Network (RDCRN) and sponsored by the National Institutes of Health (NIH).
 
