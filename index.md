@@ -1,6 +1,6 @@
 ---
 title: "TSC Study Website"
-description: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
+description: "Studies dedicated to researching and treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
 ---
 
 ## TSC Studies
