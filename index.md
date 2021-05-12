@@ -3,8 +3,8 @@ title: "TSC Study Website"
 description: "Studies dedicated to researching and treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
 ---
 
-## TSC Studies
-The following are a list of active or recently active TSC Studies. We hope this you find this list of studies helpful.
+## Studies about Tuberous Sclerosis Complex (TSC)
+If you are interested in participation in any of these studies, please contact us at[ResearchTNC@childrens.harvard.edu](mailto:ResearchTNC@childrens.harvard.edu).
 
 ---
 
@@ -25,14 +25,14 @@ The only eligibility requirement for this study is a diagnosis of TSC. Participa
 ---
 
 ### Tuberous Sclerosis Complex (TSC) Biosample Repository Project
-Are you or your child with TSC enrolled in the TSC Natural History Database? The Tuberous Sclerosis Alliance has established a TSC Biosample Repository to collect blood, tissue, and other types of bodily samples to be used for research which may lead to a better understanding of TSC and possible new treatments.  Your/your child’s participation in the TSC Biosample Repository Project is voluntary.   There is no immediate benefit to volunteers.   If you are (your child is) enrolled in the TSC Natural History Database and have a definite diagnosis of TSC you may ask the Director of the TSC Clinic at your (your child’s) next clinic visit for more information about this study.  You may also contact Jo Anne Nakagawa at the TS Alliance at [jnakagawa@tsalliance.org](jnakagawa@tsalliance.org) or 1-800-225-6872, extension 218, or 240-638-4654 (direct line).
+Are you or your child with TSC enrolled in the TSC Natural History Database? The Tuberous Sclerosis Alliance has established a TSC Biosample Repository to collect blood, tissue, and other types of bodily samples to be used for research which may lead to a better understanding of TSC and possible new treatments.  Your/your child’s participation in the TSC Biosample Repository Project is voluntary.   There is no immediate benefit to volunteers.   If you are (your child is) enrolled in the TSC Natural History Database and have a definite diagnosis of TSC you may ask the Director of the TSC Clinic at your (your child’s) next clinic visit for more information about this study.
 
 ---
 
 ### Marinus CALM: Clinical Trial of Ganaxalone in TSC
 Clinicians at Boston Children’s Hospital are trying to find out how we can improve the symptoms of Tuberous Sclerosis Complex (TSC)-related epilepsy disorder. We are conducting this study to see if an investigational medication called ganaxolone (GNX) is safe and effective (whether it works as intended). We are enrolling children or adults who are 2-65 years with a diagnosis of TSC-related epilepsy disorder are invited to participate in this study. This will be about a 10.5 months clinical trial consisting of 8 of the visits at Boston Children’s Hospital with up to 10 phone calls with the study doctor between visits
 
-Travel and hotel stay (if needed) will be arranged and paid for by the Travel Concierge on behalf of the Sponsor at no cost to participants. In addition, participants will be reimbursed for meals and all other out of pocket expenses and will get a stipend for participating in the study. If you are interested in participating, have any questions, or would like more information, please feel free to contact our study coordinator, Gregory Geisel, at 617-919-1476 or [Gregory.Geisel@childrens.harvard.edu](Gregory.Geisel@childrens.harvard.edu).
+Travel and hotel stay (if needed) will be arranged and paid for by the Travel Concierge on behalf of the Sponsor at no cost to participants. In addition, participants will be reimbursed for meals and all other out of pocket expenses and will get a stipend for participating in the study.
 
 ---
 
@@ -42,8 +42,6 @@ We want to learn more about the safety and effectiveness of an investigational s
 The study may be a good fit for your child if: your child has a diagnosis of TSC,  has facial spots or bumps, or is between 2-18 years old.
 
 If your child takes part in this research study, he/she will: Have four study visits and two phone visits across 4 months, be given a cream to put on the face once a day before going to bed, have TSC symptoms monitored, have facial spots or bumps examined, have blood samples collected for laboratory testing, be offered opportunity to join open-label portion of study with sirolimus ointment at no cost at end of first 3 months.
-
-If you are interested in participating in this trial, please contact the following study coordinator and they will assist you with any questions  you may have: Gregory Geisel at 617-919-1476 or [Gregory.Geisel@childrens.harvard.edu](Gregory.Geisel@childrens.harvard.edu).
 
 ---
 
